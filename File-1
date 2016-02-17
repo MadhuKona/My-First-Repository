@@ -7,3 +7,7 @@ Http
 Https
 FTP
 SMTP
+
+Transportation Layer Protocols:-
+TCP
+UDP
