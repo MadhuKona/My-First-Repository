@@ -6,8 +6,8 @@ Application Layer Protocols :-
 Http
 Https
 FTP
-SMTP
+SMTP - Simple Mail transfer protocol
 
 Transportation Layer Protocols:-
-TCP
-UDP
+TCP - Connection oriented protocol
+UDP - Connection less protocol
